@@ -1,6 +1,6 @@
-# **𝓜𝓸𝓷𝓴𝓮𝔂-𝓓-𝓛𝓾𝓯𝓯𝔂 𝓑𝓸𝓽 - MEJOR Bot de WhatsApp**
+# **luffybot-md- MEJOR Bot de WhatsApp**
 
-¡¡Prepárate para llevar tu experiencia en WhatsApp al siguiente nivel! **𝓜𝓸𝓷𝓴𝓮𝔂-𝓓-𝓛𝓾𝓯𝓯𝔂 𝓑𝓸𝓽 **es un bot multiusos, veloz, potente y completamente personalizable. Desde comandos divertidos hasta funciones de moderación avanzadas… ¡este bot lo tiene TODO!*.
+¡¡Prepárate para llevar tu experiencia en WhatsApp al siguiente nivel! **luffybot-md**es un bot multiusos, veloz, potente y completamente personalizable. Desde comandos divertidos hasta funciones de moderación avanzadas… ¡este bot lo tiene TODO!*.
 
 **el mejor Bot de WhatsApp 😛😜:**
 - Sistema de comandos con respuesta ultra rápida  
