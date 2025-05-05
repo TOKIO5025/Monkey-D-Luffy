@@ -54,7 +54,7 @@ git clone https://github.com/TOKIO5025/Monkey-D-Luffy.git
 ```
 
 ```bash
-cd LuffyBot
+cd Monkey-D-Luffy
 ```
 
 ```bash
